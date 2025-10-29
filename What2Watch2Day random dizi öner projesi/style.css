@@ -1,0 +1,337 @@
+.modern-btn {
+  display: inline-block; /* Prevents block-level stretching */
+  padding: 0.25em 0.5em; /* More compact */
+  font-size: 0.5rem; /* Refined size */
+  line-height: 0.5; /* Reduces vertical space */
+  white-space: nowrap; /* Keeps text in one line */
+  border-radius: 999px;
+  font-family: "Segoe UI", "Roboto", sans-serif;
+  font-weight: 500;
+  letter-spacing: 0.1px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.08);
+  transition: all 0.3s ease;
+}
+
+.modern-btn:hover {
+  transform: scale(1.03);
+  background-color: #e0e0e0;
+}
+#search-form {
+  max-width: 250px;
+  transition: opacity 0.3s ease;
+}
+#search-form.show {
+  display: block !important;
+  opacity: 1;
+}
+.hidden {
+  display: none;
+}
+#movie-container {
+  height: 260px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+  padding: 10px;
+  scroll-behavior: smooth;
+}
+
+.movie-card {
+  display: inline-block;
+  width: 180px;
+  margin-right: 16px;
+  vertical-align: top;
+}
+.btn-position {
+  position: absolute;
+  right: 20px;
+  top: 40%;
+  transform: translateY(-50%);
+
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  height: 60px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.btn-position-aksiyon {
+  position: absolute;
+  right: 20px;
+  top: 80%;
+  transform: translateY(-50%);
+
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+#movie-container1 {
+  height: 260px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+  padding: 10px;
+  scroll-behavior: smooth;
+}
+.btn-position-dram {
+  position: absolute;
+  right: 20px;
+  top: 116%;
+  transform: translateY(-50%);
+
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+#dram-container {
+  height: 260px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+  padding: 10px;
+  scroll-behavior: smooth;
+}
+#adventure-container {
+  height: 260px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+  padding: 10px;
+  scroll-behavior: smooth;
+}
+.btn-position_adventure {
+  position: absolute;
+  right: 20px;
+  top: 153%;
+  transform: translateY(-50%);
+
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+#comedy-container {
+  height: 260px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+  padding: 10px;
+  scroll-behavior: smooth;
+}
+.btn-position-comedy {
+  position: absolute;
+  right: 20px;
+  top: 189%;
+  transform: translateY(-50%);
+
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+#fantasy-container {
+  height: 260px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+  padding: 10px;
+  scroll-behavior: smooth;
+}
+.btn-position-fantasy {
+  position: absolute;
+  right: 20px;
+  top: 226%;
+  transform: translateY(-50%);
+}
+.btn-position-horror {
+  position: absolute;
+  right: 20px;
+  top: 262%;
+  transform: translateY(-50%);
+}
+#horror-container {
+  height: 260px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+  padding: 10px;
+  scroll-behavior: smooth;
+}
+#mystery-container {
+  height: 260px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+  padding: 10px;
+  scroll-behavior: smooth;
+}
+.btn-position-mystery {
+  position: absolute;
+  right: 20px;
+  top: 299%;
+  transform: translateY(-50%);
+}
+#romance-container {
+  height: 260px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+  padding: 10px;
+  scroll-behavior: smooth;
+}
+
+.btn-position-romance {
+  position: absolute;
+  right: 20px;
+  top: 335%;
+  transform: translateY(-50%);
+}
+#sci_fi-container {
+  height: 260px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+  padding: 10px;
+  scroll-behavior: smooth;
+}
+.btn-position-sci_fi {
+  position: absolute;
+  right: 20px;
+  top: 371%;
+  transform: translateY(-50%);
+}
+#sliceOfLife-container {
+  height: 260px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+  padding: 10px;
+  scroll-behavior: smooth;
+}
+.btn-position-slice_of_life {
+  position: absolute;
+  right: 20px;
+  top: 408%;
+  transform: translateY(-50%);
+}
+#sports-container {
+  height: 260px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+  padding: 10px;
+  scroll-behavior: smooth;
+}
+.btn-position-sports {
+  position: absolute;
+  right: 20px;
+  top: 444%;
+  transform: translateY(-50%);
+}
+#supernatural-container {
+  height: 260px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+  padding: 10px;
+  scroll-behavior: smooth;
+}
+.btn-position-supernatural {
+  position: absolute;
+  right: 20px;
+  top: 481%;
+  transform: translateY(-50%);
+}
+body.dark-mode {
+  background-color: #171928;
+  color: #e0e0e0;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.btn.dark-mode {
+  background-color: #323e57 !important;
+  color: #ffffff !important;
+  border: 1px solid #333e54 !important;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.btn.dark-mode:hover {
+  background-color: #505667;
+}
+
+.text-light {
+  color: #e0e0e0;
+}
+.button-rounded {
+  background-color: #80828d;
+  border: none;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 6px;
+  margin: 4px 2px;
+  border-radius: 70%;
+}
+.card-dark .card-title,
+.card-dark .card-text,
+.card-dark .card-genre,
+.card-dark .card-year {
+  color: #e0e0e0;
+}
+.card {
+  background-color: #2c2f36 !important;
+  border: 1px solid #3a3f4b !important;
+  color: #e0e0e0 !important;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+.side-bar-dark {
+  background-color: #171928 !important;
+}
+.offcanvas-body.dark-mode {
+  background-color: #171928 !important;
+}
+.offcanvas-header.dark-mode {
+  background-color: #171928 !important;
+  color: #ffffff !important;
+}
+#popUpOverlay {
+  display: none; /* Hide by default */
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 9999;
+  justify-content: center;
+  align-items: center;
+}
+
+#popupBox {
+  background: #fff;
+  border-radius: 16px;
+  padding: 40px 30px;
+  min-width: 350px;
+  min-height: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#resultBox {
+  margin-top: 20px;
+  font-size: 1.5rem;
+  color: #e57373;
+  min-height: 40px;
+  min-width: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.dark-mode .result-card {
+  background-color: #171928 !important;
+  color: #ffffff !important;
+}
+#popupBox.dark-mode {
+  background-color: #171928 !important;
+  color: #ffffff !important;
+}

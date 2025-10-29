@@ -1,0 +1,2702 @@
+[
+  {
+    "title": "Hyouka",
+    "rating": "8.05",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2012",
+    "type": "anime"
+  },
+  {
+    "title": "Kobayashi-san Chi no Maid Dragon",
+    "rating": "7.92",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Mushishi",
+    "rating": "8.65",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2005",
+    "type": "anime"
+  },
+  {
+    "title": "Ookami Kodomo no Ame to Yuki",
+    "rating": "8.56",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2012",
+    "type": "anime"
+  },
+  {
+    "title": "Barakamon",
+    "rating": "8.37",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2014",
+    "type": "anime"
+  },
+  {
+    "title": "Kobayashi-san Chi no Maid Dragon S",
+    "rating": "8.22",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2021",
+    "type": "anime"
+  },
+  {
+    "title": "Natsume Yuujinchou",
+    "rating": "8.30",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2008",
+    "type": "anime"
+  },
+  {
+    "title": "Yuru Camp△",
+    "rating": "8.27",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2018",
+    "type": "anime"
+  },
+  {
+    "title": "Usagi Drop",
+    "rating": "8.32",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2011",
+    "type": "anime"
+  },
+  {
+    "title": "Tanaka-kun wa Itsumo Kedaruge",
+    "rating": "7.81",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2016",
+    "type": "anime"
+  },
+  {
+    "title": "Gakkougurashi!",
+    "rating": "7.61",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2015",
+    "type": "anime"
+  },
+  {
+    "title": "Love Live! School Idol Project",
+    "rating": "7.40",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2013",
+    "type": "anime"
+  },
+  {
+    "title": "Tamako Market",
+    "rating": "7.40",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2013",
+    "type": "anime"
+  },
+  {
+    "title": "Non Non Biyori",
+    "rating": "7.94",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2013",
+    "type": "anime"
+  },
+  {
+    "title": "Shoujo Shuumatsu Ryokou",
+    "rating": "8.23",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Sewayaki Kitsune no Senko-san",
+    "rating": "7.31",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2019",
+    "type": "anime"
+  },
+  {
+    "title": "Gakuen Babysitters",
+    "rating": "7.90",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2018",
+    "type": "anime"
+  },
+  {
+    "title": "Amaama to Inazuma",
+    "rating": "7.53",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2016",
+    "type": "anime"
+  },
+  {
+    "title": "Mushishi Zoku Shou",
+    "rating": "8.69",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2014",
+    "type": "anime"
+  },
+  {
+    "title": "Mushishi Zoku Shou 2nd Season",
+    "rating": "8.72",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2014",
+    "type": "anime"
+  },
+  {
+    "title": "Flying Witch",
+    "rating": "7.50",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2016",
+    "type": "anime"
+  },
+  {
+    "title": "Isekai Shokudou",
+    "rating": "7.41",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Love Live! School Idol Project 2nd Season",
+    "rating": "7.76",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2014",
+    "type": "anime"
+  },
+  {
+    "title": "Natsume Yuujinchou San",
+    "rating": "8.56",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2011",
+    "type": "anime"
+  },
+  {
+    "title": "Zoku Natsume Yuujinchou",
+    "rating": "8.53",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2009",
+    "type": "anime"
+  },
+  {
+    "title": "Natsume Yuujinchou Shi",
+    "rating": "8.63",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2012",
+    "type": "anime"
+  },
+  {
+    "title": "Isekai Nonbiri Nouka",
+    "rating": "7.54",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2023",
+    "type": "anime"
+  },
+  {
+    "title": "Kumichou Musume to Sewagakari",
+    "rating": "7.74",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2022",
+    "type": "anime"
+  },
+  {
+    "title": "Yuru Camp△ Season 2",
+    "rating": "8.50",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2021",
+    "type": "anime"
+  },
+  {
+    "title": "Gochuumon wa Usagi desu ka?",
+    "rating": "7.49",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2014",
+    "type": "anime"
+  },
+  {
+    "title": "Kami-tachi ni Hirowareta Otoko",
+    "rating": "6.96",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2020",
+    "type": "anime"
+  },
+  {
+    "title": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.",
+    "rating": "7.08",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2019",
+    "type": "anime"
+  },
+  {
+    "title": "Kobayashi-san Chi no Maid Dragon: Valentine, Soshite Onsen! - Amari Kitai Shinaide Kudasai",
+    "rating": "7.70",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Non Non Biyori Repeat",
+    "rating": "8.18",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2015",
+    "type": "anime"
+  },
+  {
+    "title": "Doukyonin wa Hiza, Tokidoki, Atama no Ue.",
+    "rating": "7.72",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2019",
+    "type": "anime"
+  },
+  {
+    "title": "Akebi-chan no Sailor-fuku",
+    "rating": "7.65",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2022",
+    "type": "anime"
+  },
+  {
+    "title": "Natsume Yuujinchou Roku",
+    "rating": "8.61",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Natsume Yuujinchou Go",
+    "rating": "8.56",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2016",
+    "type": "anime"
+  },
+  {
+    "title": "Hyouka: Motsubeki Mono wa",
+    "rating": "7.35",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2012",
+    "type": "anime"
+  },
+  {
+    "title": "Kimi to Boku.",
+    "rating": "7.65",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2011",
+    "type": "anime"
+  },
+  {
+    "title": "Eve no Jikan",
+    "rating": "7.98",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2008",
+    "type": "anime"
+  },
+  {
+    "title": "Kotarou wa Hitorigurashi",
+    "rating": "8.16",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2022",
+    "type": "anime"
+  },
+  {
+    "title": "Love Live! Sunshine!!",
+    "rating": "7.39",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2016",
+    "type": "anime"
+  },
+  {
+    "title": "Kiniro Mosaic",
+    "rating": "7.23",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2013",
+    "type": "anime"
+  },
+  {
+    "title": "Genshiken",
+    "rating": "7.63",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2004",
+    "type": "anime"
+  },
+  {
+    "title": "Nekopara",
+    "rating": "6.72",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2020",
+    "type": "anime"
+  },
+  {
+    "title": "Aria the Animation",
+    "rating": "7.68",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2005",
+    "type": "anime"
+  },
+  {
+    "title": "So Ra No Wo To",
+    "rating": "7.53",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2010",
+    "type": "anime"
+  },
+  {
+    "title": "Getsuyoubi no Tawawa",
+    "rating": "6.40",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2016",
+    "type": "anime"
+  },
+  {
+    "title": "Tari Tari",
+    "rating": "7.28",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2012",
+    "type": "anime"
+  },
+  {
+    "title": "Konohana Kitan",
+    "rating": "7.47",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Sakura Quest",
+    "rating": "7.38",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Comic Girls",
+    "rating": "7.36",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2018",
+    "type": "anime"
+  },
+  {
+    "title": "Mushishi: Hihamukage",
+    "rating": "8.52",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2014",
+    "type": "anime"
+  },
+  {
+    "title": "Miira no Kaikata",
+    "rating": "7.46",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2018",
+    "type": "anime"
+  },
+  {
+    "title": "Kanojo to Kanojo no Neko: Everything Flows",
+    "rating": "7.66",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2016",
+    "type": "anime"
+  },
+  {
+    "title": "Udon no Kuni no Kiniro Kemari",
+    "rating": "7.74",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2016",
+    "type": "anime"
+  },
+  {
+    "title": "Emiya-san Chi no Kyou no Gohan",
+    "rating": "7.79",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2018",
+    "type": "anime"
+  },
+  {
+    "title": "Gochuumon wa Usagi desu ka??",
+    "rating": "7.76",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2015",
+    "type": "anime"
+  },
+  {
+    "title": "Aria the Origination",
+    "rating": "8.47",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2008",
+    "type": "anime"
+  },
+  {
+    "title": "Mushishi Zoku Shou: Suzu no Shizuku",
+    "rating": "8.58",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2015",
+    "type": "anime"
+  },
+  {
+    "title": "Love Live! The School Idol Movie",
+    "rating": "7.91",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2015",
+    "type": "anime"
+  },
+  {
+    "title": "Non Non Biyori Nonstop",
+    "rating": "8.35",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2021",
+    "type": "anime"
+  },
+  {
+    "title": "One Room",
+    "rating": "5.56",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Kami-tachi ni Hirowareta Otoko 2nd Season",
+    "rating": "6.81",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2023",
+    "type": "anime"
+  },
+  {
+    "title": "Manaria Friends",
+    "rating": "6.68",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2019",
+    "type": "anime"
+  },
+  {
+    "title": "Eve no Jikan (Movie)",
+    "rating": "7.95",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2010",
+    "type": "anime"
+  },
+  {
+    "title": "Super Cub",
+    "rating": "7.45",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2021",
+    "type": "anime"
+  },
+  {
+    "title": "Oneechan ga Kita",
+    "rating": "6.32",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2014",
+    "type": "anime"
+  },
+  {
+    "title": "Ichigo Mashimaro",
+    "rating": "7.62",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2005",
+    "type": "anime"
+  },
+  {
+    "title": "Love Live! Sunshine!! 2nd Season",
+    "rating": "7.58",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Danchigai",
+    "rating": "6.48",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2015",
+    "type": "anime"
+  },
+  {
+    "title": "Do It Yourself!!",
+    "rating": "7.45",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2022",
+    "type": "anime"
+  },
+  {
+    "title": "Hanayamata",
+    "rating": "7.31",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2014",
+    "type": "anime"
+  },
+  {
+    "title": "Hinako Note",
+    "rating": "6.78",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Isekai Shokudou 2",
+    "rating": "7.69",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2021",
+    "type": "anime"
+  },
+  {
+    "title": "Mushishi Zoku Shou: Odoro no Michi",
+    "rating": "8.42",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2014",
+    "type": "anime"
+  },
+  {
+    "title": "Mitsuboshi Colors",
+    "rating": "7.41",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2018",
+    "type": "anime"
+  },
+  {
+    "title": "Cool Doji Danshi",
+    "rating": "7.86",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2022",
+    "type": "anime"
+  },
+  {
+    "title": "Kobayashi-san Chi no OO Dragon",
+    "rating": "7.25",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Deaimon",
+    "rating": "7.55",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2022",
+    "type": "anime"
+  },
+  {
+    "title": "Gi(a)rlish Number",
+    "rating": "6.80",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2016",
+    "type": "anime"
+  },
+  {
+    "title": "Heya Camp△",
+    "rating": "7.36",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2020",
+    "type": "anime"
+  },
+  {
+    "title": "Kanojo to Kanojo no Neko",
+    "rating": "7.25",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2002",
+    "type": "anime"
+  },
+  {
+    "title": "Hanamaru Youchien",
+    "rating": "7.26",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2010",
+    "type": "anime"
+  },
+  {
+    "title": "Shirokuma Cafe",
+    "rating": "7.89",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2012",
+    "type": "anime"
+  },
+  {
+    "title": "Kyuujitsu no Warumono-san",
+    "rating": "7.25",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2024",
+    "type": "anime"
+  },
+  {
+    "title": "Centaur no Nayami",
+    "rating": "6.42",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Saki",
+    "rating": "7.45",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2009",
+    "type": "anime"
+  },
+  {
+    "title": "Yuru Camp△ Season 3",
+    "rating": "8.02",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2024",
+    "type": "anime"
+  },
+  {
+    "title": "Amanchu!",
+    "rating": "7.23",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2016",
+    "type": "anime"
+  },
+  {
+    "title": "Koisuru Asteroid",
+    "rating": "6.88",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2020",
+    "type": "anime"
+  },
+  {
+    "title": "Kimi to Boku. 2",
+    "rating": "7.91",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2012",
+    "type": "anime"
+  },
+  {
+    "title": "Aiura",
+    "rating": "6.64",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2013",
+    "type": "anime"
+  },
+  {
+    "title": "Yama no Susume",
+    "rating": "6.84",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2013",
+    "type": "anime"
+  },
+  {
+    "title": "Yuru Camp△ Movie",
+    "rating": "8.38",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2022",
+    "type": "anime"
+  },
+  {
+    "title": "Free! Take Your Marks",
+    "rating": "7.74",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Shounen Maid",
+    "rating": "7.27",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2016",
+    "type": "anime"
+  },
+  {
+    "title": "Genshiken 2",
+    "rating": "7.74",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2007",
+    "type": "anime"
+  },
+  {
+    "title": "Honobono Log",
+    "rating": "7.33",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2016",
+    "type": "anime"
+  },
+  {
+    "title": "Hyouka",
+    "rating": "8.05",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2012",
+    "type": "anime"
+  },
+  {
+    "title": "Kobayashi-san Chi no Maid Dragon",
+    "rating": "7.92",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Mushishi",
+    "rating": "8.65",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2005",
+    "type": "anime"
+  },
+  {
+    "title": "Ookami Kodomo no Ame to Yuki",
+    "rating": "8.56",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2012",
+    "type": "anime"
+  },
+  {
+    "title": "Barakamon",
+    "rating": "8.37",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2014",
+    "type": "anime"
+  },
+  {
+    "title": "Kobayashi-san Chi no Maid Dragon S",
+    "rating": "8.22",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2021",
+    "type": "anime"
+  },
+  {
+    "title": "Natsume Yuujinchou",
+    "rating": "8.30",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2008",
+    "type": "anime"
+  },
+  {
+    "title": "Yuru Camp△",
+    "rating": "8.27",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2018",
+    "type": "anime"
+  },
+  {
+    "title": "Usagi Drop",
+    "rating": "8.32",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2011",
+    "type": "anime"
+  },
+  {
+    "title": "Tanaka-kun wa Itsumo Kedaruge",
+    "rating": "7.81",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2016",
+    "type": "anime"
+  },
+  {
+    "title": "Gakkougurashi!",
+    "rating": "7.61",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2015",
+    "type": "anime"
+  },
+  {
+    "title": "Love Live! School Idol Project",
+    "rating": "7.40",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2013",
+    "type": "anime"
+  },
+  {
+    "title": "Tamako Market",
+    "rating": "7.40",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2013",
+    "type": "anime"
+  },
+  {
+    "title": "Non Non Biyori",
+    "rating": "7.94",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2013",
+    "type": "anime"
+  },
+  {
+    "title": "Shoujo Shuumatsu Ryokou",
+    "rating": "8.23",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Sewayaki Kitsune no Senko-san",
+    "rating": "7.31",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2019",
+    "type": "anime"
+  },
+  {
+    "title": "Gakuen Babysitters",
+    "rating": "7.90",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2018",
+    "type": "anime"
+  },
+  {
+    "title": "Amaama to Inazuma",
+    "rating": "7.53",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2016",
+    "type": "anime"
+  },
+  {
+    "title": "Mushishi Zoku Shou",
+    "rating": "8.69",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2014",
+    "type": "anime"
+  },
+  {
+    "title": "Mushishi Zoku Shou 2nd Season",
+    "rating": "8.72",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2014",
+    "type": "anime"
+  },
+  {
+    "title": "Flying Witch",
+    "rating": "7.50",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2016",
+    "type": "anime"
+  },
+  {
+    "title": "Isekai Shokudou",
+    "rating": "7.41",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Love Live! School Idol Project 2nd Season",
+    "rating": "7.76",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2014",
+    "type": "anime"
+  },
+  {
+    "title": "Natsume Yuujinchou San",
+    "rating": "8.56",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2011",
+    "type": "anime"
+  },
+  {
+    "title": "Zoku Natsume Yuujinchou",
+    "rating": "8.53",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2009",
+    "type": "anime"
+  },
+  {
+    "title": "Natsume Yuujinchou Shi",
+    "rating": "8.63",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2012",
+    "type": "anime"
+  },
+  {
+    "title": "Isekai Nonbiri Nouka",
+    "rating": "7.54",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2023",
+    "type": "anime"
+  },
+  {
+    "title": "Kumichou Musume to Sewagakari",
+    "rating": "7.74",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2022",
+    "type": "anime"
+  },
+  {
+    "title": "Yuru Camp△ Season 2",
+    "rating": "8.50",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2021",
+    "type": "anime"
+  },
+  {
+    "title": "Gochuumon wa Usagi desu ka?",
+    "rating": "7.49",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2014",
+    "type": "anime"
+  },
+  {
+    "title": "Kami-tachi ni Hirowareta Otoko",
+    "rating": "6.96",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2020",
+    "type": "anime"
+  },
+  {
+    "title": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.",
+    "rating": "7.08",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2019",
+    "type": "anime"
+  },
+  {
+    "title": "Kobayashi-san Chi no Maid Dragon: Valentine, Soshite Onsen! - Amari Kitai Shinaide Kudasai",
+    "rating": "7.70",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Non Non Biyori Repeat",
+    "rating": "8.18",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2015",
+    "type": "anime"
+  },
+  {
+    "title": "Doukyonin wa Hiza, Tokidoki, Atama no Ue.",
+    "rating": "7.72",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2019",
+    "type": "anime"
+  },
+  {
+    "title": "Akebi-chan no Sailor-fuku",
+    "rating": "7.65",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2022",
+    "type": "anime"
+  },
+  {
+    "title": "Natsume Yuujinchou Roku",
+    "rating": "8.61",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Natsume Yuujinchou Go",
+    "rating": "8.56",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2016",
+    "type": "anime"
+  },
+  {
+    "title": "Hyouka: Motsubeki Mono wa",
+    "rating": "7.35",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2012",
+    "type": "anime"
+  },
+  {
+    "title": "Kimi to Boku.",
+    "rating": "7.65",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2011",
+    "type": "anime"
+  },
+  {
+    "title": "Eve no Jikan",
+    "rating": "7.98",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2008",
+    "type": "anime"
+  },
+  {
+    "title": "Kotarou wa Hitorigurashi",
+    "rating": "8.16",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2022",
+    "type": "anime"
+  },
+  {
+    "title": "Love Live! Sunshine!!",
+    "rating": "7.39",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2016",
+    "type": "anime"
+  },
+  {
+    "title": "Kiniro Mosaic",
+    "rating": "7.23",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2013",
+    "type": "anime"
+  },
+  {
+    "title": "Genshiken",
+    "rating": "7.63",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2004",
+    "type": "anime"
+  },
+  {
+    "title": "Nekopara",
+    "rating": "6.72",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2020",
+    "type": "anime"
+  },
+  {
+    "title": "Aria the Animation",
+    "rating": "7.68",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2005",
+    "type": "anime"
+  },
+  {
+    "title": "So Ra No Wo To",
+    "rating": "7.53",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2010",
+    "type": "anime"
+  },
+  {
+    "title": "Getsuyoubi no Tawawa",
+    "rating": "6.40",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2016",
+    "type": "anime"
+  },
+  {
+    "title": "Tari Tari",
+    "rating": "7.28",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2012",
+    "type": "anime"
+  },
+  {
+    "title": "Konohana Kitan",
+    "rating": "7.47",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Sakura Quest",
+    "rating": "7.38",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Comic Girls",
+    "rating": "7.36",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2018",
+    "type": "anime"
+  },
+  {
+    "title": "Mushishi: Hihamukage",
+    "rating": "8.52",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2014",
+    "type": "anime"
+  },
+  {
+    "title": "Miira no Kaikata",
+    "rating": "7.46",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2018",
+    "type": "anime"
+  },
+  {
+    "title": "Kanojo to Kanojo no Neko: Everything Flows",
+    "rating": "7.66",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2016",
+    "type": "anime"
+  },
+  {
+    "title": "Udon no Kuni no Kiniro Kemari",
+    "rating": "7.74",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2016",
+    "type": "anime"
+  },
+  {
+    "title": "Emiya-san Chi no Kyou no Gohan",
+    "rating": "7.79",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2018",
+    "type": "anime"
+  },
+  {
+    "title": "Gochuumon wa Usagi desu ka??",
+    "rating": "7.76",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2015",
+    "type": "anime"
+  },
+  {
+    "title": "Aria the Origination",
+    "rating": "8.47",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2008",
+    "type": "anime"
+  },
+  {
+    "title": "Mushishi Zoku Shou: Suzu no Shizuku",
+    "rating": "8.58",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2015",
+    "type": "anime"
+  },
+  {
+    "title": "Love Live! The School Idol Movie",
+    "rating": "7.91",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2015",
+    "type": "anime"
+  },
+  {
+    "title": "Non Non Biyori Nonstop",
+    "rating": "8.35",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2021",
+    "type": "anime"
+  },
+  {
+    "title": "One Room",
+    "rating": "5.56",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Kami-tachi ni Hirowareta Otoko 2nd Season",
+    "rating": "6.81",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2023",
+    "type": "anime"
+  },
+  {
+    "title": "Manaria Friends",
+    "rating": "6.68",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2019",
+    "type": "anime"
+  },
+  {
+    "title": "Eve no Jikan (Movie)",
+    "rating": "7.95",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2010",
+    "type": "anime"
+  },
+  {
+    "title": "Super Cub",
+    "rating": "7.45",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2021",
+    "type": "anime"
+  },
+  {
+    "title": "Oneechan ga Kita",
+    "rating": "6.32",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2014",
+    "type": "anime"
+  },
+  {
+    "title": "Ichigo Mashimaro",
+    "rating": "7.62",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2005",
+    "type": "anime"
+  },
+  {
+    "title": "Love Live! Sunshine!! 2nd Season",
+    "rating": "7.58",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Danchigai",
+    "rating": "6.48",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2015",
+    "type": "anime"
+  },
+  {
+    "title": "Do It Yourself!!",
+    "rating": "7.45",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2022",
+    "type": "anime"
+  },
+  {
+    "title": "Hanayamata",
+    "rating": "7.31",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2014",
+    "type": "anime"
+  },
+  {
+    "title": "Hinako Note",
+    "rating": "6.78",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Isekai Shokudou 2",
+    "rating": "7.69",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2021",
+    "type": "anime"
+  },
+  {
+    "title": "Mushishi Zoku Shou: Odoro no Michi",
+    "rating": "8.42",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2014",
+    "type": "anime"
+  },
+  {
+    "title": "Mitsuboshi Colors",
+    "rating": "7.41",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2018",
+    "type": "anime"
+  },
+  {
+    "title": "Cool Doji Danshi",
+    "rating": "7.86",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2022",
+    "type": "anime"
+  },
+  {
+    "title": "Kobayashi-san Chi no OO Dragon",
+    "rating": "7.25",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Deaimon",
+    "rating": "7.55",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2022",
+    "type": "anime"
+  },
+  {
+    "title": "Gi(a)rlish Number",
+    "rating": "6.80",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2016",
+    "type": "anime"
+  },
+  {
+    "title": "Heya Camp△",
+    "rating": "7.36",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2020",
+    "type": "anime"
+  },
+  {
+    "title": "Kanojo to Kanojo no Neko",
+    "rating": "7.25",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2002",
+    "type": "anime"
+  },
+  {
+    "title": "Hanamaru Youchien",
+    "rating": "7.26",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2010",
+    "type": "anime"
+  },
+  {
+    "title": "Shirokuma Cafe",
+    "rating": "7.89",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2012",
+    "type": "anime"
+  },
+  {
+    "title": "Kyuujitsu no Warumono-san",
+    "rating": "7.25",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2024",
+    "type": "anime"
+  },
+  {
+    "title": "Centaur no Nayami",
+    "rating": "6.42",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Saki",
+    "rating": "7.45",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2009",
+    "type": "anime"
+  },
+  {
+    "title": "Yuru Camp△ Season 3",
+    "rating": "8.02",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2024",
+    "type": "anime"
+  },
+  {
+    "title": "Amanchu!",
+    "rating": "7.23",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2016",
+    "type": "anime"
+  },
+  {
+    "title": "Koisuru Asteroid",
+    "rating": "6.88",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2020",
+    "type": "anime"
+  },
+  {
+    "title": "Kimi to Boku. 2",
+    "rating": "7.91",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2012",
+    "type": "anime"
+  },
+  {
+    "title": "Aiura",
+    "rating": "6.64",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2013",
+    "type": "anime"
+  },
+  {
+    "title": "Yama no Susume",
+    "rating": "6.84",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2013",
+    "type": "anime"
+  },
+  {
+    "title": "Yuru Camp△ Movie",
+    "rating": "8.38",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2022",
+    "type": "anime"
+  },
+  {
+    "title": "Free! Take Your Marks",
+    "rating": "7.74",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Shounen Maid",
+    "rating": "7.27",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2016",
+    "type": "anime"
+  },
+  {
+    "title": "Genshiken 2",
+    "rating": "7.74",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2007",
+    "type": "anime"
+  },
+  {
+    "title": "Honobono Log",
+    "rating": "7.33",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2016",
+    "type": "anime"
+  },
+  {
+    "title": "Hyouka",
+    "rating": "8.05",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2012",
+    "type": "anime"
+  },
+  {
+    "title": "Kobayashi-san Chi no Maid Dragon",
+    "rating": "7.92",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Mushishi",
+    "rating": "8.65",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2005",
+    "type": "anime"
+  },
+  {
+    "title": "Ookami Kodomo no Ame to Yuki",
+    "rating": "8.56",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2012",
+    "type": "anime"
+  },
+  {
+    "title": "Barakamon",
+    "rating": "8.37",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2014",
+    "type": "anime"
+  },
+  {
+    "title": "Kobayashi-san Chi no Maid Dragon S",
+    "rating": "8.22",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2021",
+    "type": "anime"
+  },
+  {
+    "title": "Natsume Yuujinchou",
+    "rating": "8.30",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2008",
+    "type": "anime"
+  },
+  {
+    "title": "Yuru Camp△",
+    "rating": "8.27",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2018",
+    "type": "anime"
+  },
+  {
+    "title": "Usagi Drop",
+    "rating": "8.32",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2011",
+    "type": "anime"
+  },
+  {
+    "title": "Tanaka-kun wa Itsumo Kedaruge",
+    "rating": "7.81",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2016",
+    "type": "anime"
+  },
+  {
+    "title": "Gakkougurashi!",
+    "rating": "7.61",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2015",
+    "type": "anime"
+  },
+  {
+    "title": "Love Live! School Idol Project",
+    "rating": "7.40",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2013",
+    "type": "anime"
+  },
+  {
+    "title": "Tamako Market",
+    "rating": "7.40",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2013",
+    "type": "anime"
+  },
+  {
+    "title": "Non Non Biyori",
+    "rating": "7.94",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2013",
+    "type": "anime"
+  },
+  {
+    "title": "Shoujo Shuumatsu Ryokou",
+    "rating": "8.23",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Sewayaki Kitsune no Senko-san",
+    "rating": "7.31",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2019",
+    "type": "anime"
+  },
+  {
+    "title": "Gakuen Babysitters",
+    "rating": "7.90",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2018",
+    "type": "anime"
+  },
+  {
+    "title": "Amaama to Inazuma",
+    "rating": "7.53",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2016",
+    "type": "anime"
+  },
+  {
+    "title": "Mushishi Zoku Shou",
+    "rating": "8.69",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2014",
+    "type": "anime"
+  },
+  {
+    "title": "Mushishi Zoku Shou 2nd Season",
+    "rating": "8.72",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2014",
+    "type": "anime"
+  },
+  {
+    "title": "Flying Witch",
+    "rating": "7.50",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2016",
+    "type": "anime"
+  },
+  {
+    "title": "Isekai Shokudou",
+    "rating": "7.41",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Love Live! School Idol Project 2nd Season",
+    "rating": "7.76",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2014",
+    "type": "anime"
+  },
+  {
+    "title": "Natsume Yuujinchou San",
+    "rating": "8.56",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2011",
+    "type": "anime"
+  },
+  {
+    "title": "Zoku Natsume Yuujinchou",
+    "rating": "8.53",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2009",
+    "type": "anime"
+  },
+  {
+    "title": "Natsume Yuujinchou Shi",
+    "rating": "8.63",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2012",
+    "type": "anime"
+  },
+  {
+    "title": "Isekai Nonbiri Nouka",
+    "rating": "7.54",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2023",
+    "type": "anime"
+  },
+  {
+    "title": "Kumichou Musume to Sewagakari",
+    "rating": "7.74",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2022",
+    "type": "anime"
+  },
+  {
+    "title": "Yuru Camp△ Season 2",
+    "rating": "8.50",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2021",
+    "type": "anime"
+  },
+  {
+    "title": "Gochuumon wa Usagi desu ka?",
+    "rating": "7.49",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2014",
+    "type": "anime"
+  },
+  {
+    "title": "Kami-tachi ni Hirowareta Otoko",
+    "rating": "6.96",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2020",
+    "type": "anime"
+  },
+  {
+    "title": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.",
+    "rating": "7.08",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2019",
+    "type": "anime"
+  },
+  {
+    "title": "Kobayashi-san Chi no Maid Dragon: Valentine, Soshite Onsen! - Amari Kitai Shinaide Kudasai",
+    "rating": "7.70",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Non Non Biyori Repeat",
+    "rating": "8.18",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2015",
+    "type": "anime"
+  },
+  {
+    "title": "Doukyonin wa Hiza, Tokidoki, Atama no Ue.",
+    "rating": "7.72",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2019",
+    "type": "anime"
+  },
+  {
+    "title": "Akebi-chan no Sailor-fuku",
+    "rating": "7.65",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2022",
+    "type": "anime"
+  },
+  {
+    "title": "Natsume Yuujinchou Roku",
+    "rating": "8.61",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Natsume Yuujinchou Go",
+    "rating": "8.56",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2016",
+    "type": "anime"
+  },
+  {
+    "title": "Hyouka: Motsubeki Mono wa",
+    "rating": "7.35",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2012",
+    "type": "anime"
+  },
+  {
+    "title": "Kimi to Boku.",
+    "rating": "7.65",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2011",
+    "type": "anime"
+  },
+  {
+    "title": "Eve no Jikan",
+    "rating": "7.98",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2008",
+    "type": "anime"
+  },
+  {
+    "title": "Kotarou wa Hitorigurashi",
+    "rating": "8.16",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2022",
+    "type": "anime"
+  },
+  {
+    "title": "Love Live! Sunshine!!",
+    "rating": "7.39",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2016",
+    "type": "anime"
+  },
+  {
+    "title": "Kiniro Mosaic",
+    "rating": "7.23",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2013",
+    "type": "anime"
+  },
+  {
+    "title": "Genshiken",
+    "rating": "7.63",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2004",
+    "type": "anime"
+  },
+  {
+    "title": "Nekopara",
+    "rating": "6.72",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2020",
+    "type": "anime"
+  },
+  {
+    "title": "Aria the Animation",
+    "rating": "7.68",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2005",
+    "type": "anime"
+  },
+  {
+    "title": "So Ra No Wo To",
+    "rating": "7.53",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2010",
+    "type": "anime"
+  },
+  {
+    "title": "Getsuyoubi no Tawawa",
+    "rating": "6.40",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2016",
+    "type": "anime"
+  },
+  {
+    "title": "Tari Tari",
+    "rating": "7.28",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2012",
+    "type": "anime"
+  },
+  {
+    "title": "Konohana Kitan",
+    "rating": "7.47",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Sakura Quest",
+    "rating": "7.38",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Comic Girls",
+    "rating": "7.36",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2018",
+    "type": "anime"
+  },
+  {
+    "title": "Mushishi: Hihamukage",
+    "rating": "8.52",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2014",
+    "type": "anime"
+  },
+  {
+    "title": "Miira no Kaikata",
+    "rating": "7.46",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2018",
+    "type": "anime"
+  },
+  {
+    "title": "Kanojo to Kanojo no Neko: Everything Flows",
+    "rating": "7.66",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2016",
+    "type": "anime"
+  },
+  {
+    "title": "Udon no Kuni no Kiniro Kemari",
+    "rating": "7.74",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2016",
+    "type": "anime"
+  },
+  {
+    "title": "Emiya-san Chi no Kyou no Gohan",
+    "rating": "7.79",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2018",
+    "type": "anime"
+  },
+  {
+    "title": "Gochuumon wa Usagi desu ka??",
+    "rating": "7.76",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2015",
+    "type": "anime"
+  },
+  {
+    "title": "Aria the Origination",
+    "rating": "8.47",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2008",
+    "type": "anime"
+  },
+  {
+    "title": "Mushishi Zoku Shou: Suzu no Shizuku",
+    "rating": "8.58",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2015",
+    "type": "anime"
+  },
+  {
+    "title": "Love Live! The School Idol Movie",
+    "rating": "7.91",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2015",
+    "type": "anime"
+  },
+  {
+    "title": "Non Non Biyori Nonstop",
+    "rating": "8.35",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2021",
+    "type": "anime"
+  },
+  {
+    "title": "One Room",
+    "rating": "5.56",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Kami-tachi ni Hirowareta Otoko 2nd Season",
+    "rating": "6.81",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2023",
+    "type": "anime"
+  },
+  {
+    "title": "Manaria Friends",
+    "rating": "6.68",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2019",
+    "type": "anime"
+  },
+  {
+    "title": "Eve no Jikan (Movie)",
+    "rating": "7.95",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2010",
+    "type": "anime"
+  },
+  {
+    "title": "Super Cub",
+    "rating": "7.45",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2021",
+    "type": "anime"
+  },
+  {
+    "title": "Oneechan ga Kita",
+    "rating": "6.32",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2014",
+    "type": "anime"
+  },
+  {
+    "title": "Ichigo Mashimaro",
+    "rating": "7.62",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2005",
+    "type": "anime"
+  },
+  {
+    "title": "Love Live! Sunshine!! 2nd Season",
+    "rating": "7.58",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Danchigai",
+    "rating": "6.48",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2015",
+    "type": "anime"
+  },
+  {
+    "title": "Do It Yourself!!",
+    "rating": "7.45",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2022",
+    "type": "anime"
+  },
+  {
+    "title": "Hanayamata",
+    "rating": "7.31",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2014",
+    "type": "anime"
+  },
+  {
+    "title": "Hinako Note",
+    "rating": "6.78",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Isekai Shokudou 2",
+    "rating": "7.69",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2021",
+    "type": "anime"
+  },
+  {
+    "title": "Mushishi Zoku Shou: Odoro no Michi",
+    "rating": "8.42",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2014",
+    "type": "anime"
+  },
+  {
+    "title": "Mitsuboshi Colors",
+    "rating": "7.41",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2018",
+    "type": "anime"
+  },
+  {
+    "title": "Cool Doji Danshi",
+    "rating": "7.86",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2022",
+    "type": "anime"
+  },
+  {
+    "title": "Kobayashi-san Chi no OO Dragon",
+    "rating": "7.25",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Deaimon",
+    "rating": "7.55",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2022",
+    "type": "anime"
+  },
+  {
+    "title": "Gi(a)rlish Number",
+    "rating": "6.80",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2016",
+    "type": "anime"
+  },
+  {
+    "title": "Heya Camp△",
+    "rating": "7.36",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2020",
+    "type": "anime"
+  },
+  {
+    "title": "Kanojo to Kanojo no Neko",
+    "rating": "7.25",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2002",
+    "type": "anime"
+  },
+  {
+    "title": "Hanamaru Youchien",
+    "rating": "7.26",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2010",
+    "type": "anime"
+  },
+  {
+    "title": "Shirokuma Cafe",
+    "rating": "7.89",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2012",
+    "type": "anime"
+  },
+  {
+    "title": "Kyuujitsu no Warumono-san",
+    "rating": "7.25",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2024",
+    "type": "anime"
+  },
+  {
+    "title": "Centaur no Nayami",
+    "rating": "6.42",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Saki",
+    "rating": "7.45",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2009",
+    "type": "anime"
+  },
+  {
+    "title": "Yuru Camp△ Season 3",
+    "rating": "8.02",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2024",
+    "type": "anime"
+  },
+  {
+    "title": "Amanchu!",
+    "rating": "7.23",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2016",
+    "type": "anime"
+  },
+  {
+    "title": "Koisuru Asteroid",
+    "rating": "6.88",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2020",
+    "type": "anime"
+  },
+  {
+    "title": "Kimi to Boku. 2",
+    "rating": "7.91",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2012",
+    "type": "anime"
+  },
+  {
+    "title": "Aiura",
+    "rating": "6.64",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2013",
+    "type": "anime"
+  },
+  {
+    "title": "Yama no Susume",
+    "rating": "6.84",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2013",
+    "type": "anime"
+  },
+  {
+    "title": "Yuru Camp△ Movie",
+    "rating": "8.38",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2022",
+    "type": "anime"
+  },
+  {
+    "title": "Free! Take Your Marks",
+    "rating": "7.74",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2017",
+    "type": "anime"
+  },
+  {
+    "title": "Shounen Maid",
+    "rating": "7.27",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2016",
+    "type": "anime"
+  },
+  {
+    "title": "Genshiken 2",
+    "rating": "7.74",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2007",
+    "type": "anime"
+  },
+  {
+    "title": "Honobono Log",
+    "rating": "7.33",
+    "genre": [
+      "slice_of_life"
+    ],
+    "start_year": "2016",
+    "type": "anime"
+  }
+]

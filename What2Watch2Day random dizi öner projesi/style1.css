@@ -1,0 +1,48 @@
+.modern-btn {
+  display: inline-block; /* Prevents block-level stretching */
+  padding: 0.25em 0.5em; /* More compact */
+  font-size: 0.5rem; /* Refined size */
+  line-height: 0.5; /* Reduces vertical space */
+  white-space: nowrap; /* Keeps text in one line */
+  border-radius: 999px;
+  font-family: "Segoe UI", "Roboto", sans-serif;
+  font-weight: 500;
+  letter-spacing: 0.1px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.08);
+  transition: all 0.3s ease;
+}
+
+.modern-btn:hover {
+  transform: scale(1.03);
+  background-color: #e0e0e0;
+}
+#search-form {
+  max-width: 250px;
+  transition: opacity 0.3s ease;
+}
+#search-form.show {
+  display: block !important;
+  opacity: 1;
+}
+.hidden {
+  display: none;
+}
+#movie-container {
+  height: auto;
+
+  padding: 10px;
+}
+
+.movie-card {
+  display: inline-block;
+  width: 180px;
+  margin-right: 16px;
+  vertical-align: top;
+}
+.btn-position {
+  position: fixed;
+  right: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 1000;
+}
