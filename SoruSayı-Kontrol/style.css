@@ -1,0 +1,28 @@
+#big-cont {
+  margin-top: 50px;
+}
+body {
+  background-color: antiquewhite !important;
+}
+.pastel-pink {
+  background-color: #ffd1dc;
+  color: #212529;
+}
+.pastel-blue {
+  background-color: #cce5ff;
+  color: #212529;
+}
+.pastel-green {
+  background-color: #d4edda;
+  color: #212529;
+}
+.pastel-yellow {
+  background-color: #fff3cd;
+  color: #212529;
+}
+#hehehe-btn {
+  display: inline-block;
+}
+#last-of-them {
+  margin-top: 24px;
+}

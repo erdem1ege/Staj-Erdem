@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>FAQ Accordion</title>
+    <link rel="stylesheet" href="style.css" />
+    
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  </head>
+  <body>
+    <div class="container-fluid mt-4">
+      <div class="row">
+        <nav class="sidebar col-md-2  d-none d-md-block vh-100 p-3" id="side-bar">
+      
+           <button id="show-faq">Show FAQ</button>
+  
+        </nav>
+  
+
+    <div class="accordion hidden">
+      <div class="faq-item">
+        <button class="question">What is XAMPP?</button>
+        <div class="answer">
+          XAMPP is a free and open-source cross-platform web server solution.
+        </div>
+      </div>
+      <div class="faq-item">
+        <button class="question">Why use an accordion?</button>
+        <div class="answer">
+          It keeps content organized and improves user experience.
+        </div>
+      </div>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
